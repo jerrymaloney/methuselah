@@ -16,7 +16,4 @@
     "url": "https://github.com/jerrymaloney/methuselah/issues"
   },
   "homepage": "https://github.com/jerrymaloney/methuselah#readme"
-  "dependencies": {
-	  "tiny-json-http": "7.3.0"
-  }
 }
