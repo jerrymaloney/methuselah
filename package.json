@@ -1,0 +1,19 @@
+{
+  "name": "methuselah",
+  "version": "0.0.1",
+  "description": "makes you feel old",
+  "main": "index.js",
+  "scripts": {
+    "test": "return 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerrymaloney/methuselah.git"
+  },
+  "author": "Jerry Maloney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerrymaloney/methuselah/issues"
+  },
+  "homepage": "https://github.com/jerrymaloney/methuselah#readme"
+}
